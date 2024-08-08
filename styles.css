@@ -1,11 +1,11 @@
-
-
 body {
     color: #fff;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     background-color: #076734;
     font-weight: bold;
+    max-width: 420px;
+    margin: auto;
 }
 
 h1 {
@@ -26,4 +26,5 @@ button {
     font-weight: bold;
     border: none;
     border-radius: 3px;
+    margin: 5px;
 }
